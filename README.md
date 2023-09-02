@@ -2,7 +2,7 @@
 
 - 👋 Olá, Eu sou @jvramos-py
 - 👀 Eu estou interessado em aprender novas linguagens
-- 🌱 Eu estou atualmente aprendendo Programação Orientada a Objetos com Java
+- 🌱 Focado em Kotlin, Java, TypeScript e C#
 - 📫 Meu e-mail de contato é jvramos411@gmail.com
 
 
